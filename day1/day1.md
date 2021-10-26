@@ -8,5 +8,5 @@
 
 ## Evidence
 - Written/verbal explanation of (1), or a diagram
-- A program that uses variables with both keywords (let and const)
+- A program that uses variables with both keywords (let and const) and object literals.
 - Written/verbal explanation of (3)
