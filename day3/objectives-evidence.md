@@ -6,6 +6,6 @@
 - Write a program that satisfies (1), (2)
 
 ### Resources
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
-https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
+- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+- https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+- https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
